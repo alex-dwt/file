@@ -1,5 +1,5 @@
 {
-    "name": "flexibuild/file",
+    "name": "alex-dwt/flexibuild/file",
     "description": "Files logic for Yii2 applications. Working with files as simple model attributes.",
     "keywords": ["yii2", "file"],
     "homepage": "http://rgt.by/",
@@ -8,6 +8,11 @@
         {
             "name": "Alexey Seynov",
             "email": "sejnovalexey@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Alex Lukashevich",
+            "email": "aleksandr.dwt@gmail.com",
             "role": "Developer"
         }
     ],
