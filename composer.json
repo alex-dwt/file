@@ -1,5 +1,5 @@
 {
-    "name": "alex-dwt/flexibuild/file",
+    "name": "alex-dwt/file",
     "description": "Files logic for Yii2 applications. Working with files as simple model attributes.",
     "keywords": ["yii2", "file"],
     "homepage": "http://rgt.by/",
